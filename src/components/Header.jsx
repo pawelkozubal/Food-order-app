@@ -3,8 +3,6 @@ import { useContext } from 'react';
 import Button from './UI/Button.jsx';
 import logoImg from '../assets/logo.jpg';
 import CartContext from './store/CartContext.jsx';
-//import CartContext from '../store/CartContext.jsx';
-//import UserProgressContext from './store/UserProgressContext.jsx';
 import UserProgressContext from './store/UserProgressContext.jsx';
 
 export default function Header() {
